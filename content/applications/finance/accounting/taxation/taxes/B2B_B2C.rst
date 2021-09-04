@@ -160,8 +160,7 @@ included or tax excluded, you can set the pricelist and the fiscal
 position on the customer form so that it will be applied automatically
 at every sale of this customer.
 
-The pricelist is in the **Sales & Purchases** tab of the customer form,
-and the fiscal position is in the accounting tab.
+The pricelist and fiscal position are in the **Sales & Purchases** tab of the customer form.
 
 Note that this is error prone: if you set a fiscal position with tax
 included in prices but use a pricelist that is not included, you might
