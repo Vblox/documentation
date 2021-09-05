@@ -46,7 +46,7 @@ and apply a specific domain on each team. This domain can include scores.
 .. image:: media/lead_scoring04.png
    :align: center
 
-Further on, you can assign to a specific vendor in the team with an even
+Further on, you can assign to a specific member in the team with an even
 more refined domain.
 
 To do so go to :menuselection:`CRM --> Leads Management --> Leads Assignation`.
