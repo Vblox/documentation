@@ -122,10 +122,6 @@ Invoice purchases
 The last thing you might need to add to the sale order is purchases made
 for it.
 
-You will need the *Purchase Analytics* feature, to activate it, go to
-:menuselection:`Invoicing --> Configuration --> Settings` and select
-*Purchase Analytics*.
-
 While making the purchase order don't forget to add the right analytic
 account.
 
