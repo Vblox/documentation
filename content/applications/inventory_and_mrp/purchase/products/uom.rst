@@ -99,9 +99,8 @@ depending on your situation.
 
 As the curtain roll equals to 100 square meters, you should select *Smaller*.
 
-Next, you need to enter the *Ratio* between your reference unit and the second one. If the second
-unit is smaller, the *Ratio* should be greater than 1. If the second unit is larger, the ratio
-should be smaller than 1.
+Next, you need to enter the *Ratio* between your reference unit and the second one. whether the second
+unit is smaller or bigger, the *Ratio* should be greater than 1.
 
 For your curtain roll, the ratio should be set to 100.
 
